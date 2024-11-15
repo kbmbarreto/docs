@@ -1,5 +1,5 @@
 # Política de Privacidade
-A [Lambda Team] respeita sua privacidade e está comprometido em protegê-la. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações dos usuários do aplicativo.
+A Lambda Team Tecnologia respeita sua privacidade e está comprometido em protegê-la. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações dos usuários do aplicativo.
 
 ## 1. Informações Coletadas
 
@@ -42,4 +42,4 @@ Esta política de privacidade pode ser atualizada de tempos em tempos. A data da
 
 ## 8. Contato
 
-Se você tiver dúvidas sobre esta política de privacidade, entre em contato pelo e-mail: [kleber.barreto@msn.com].
+Se você tiver dúvidas sobre esta política de privacidade, entre em contato pelo e-mail: kleber.barreto@msn.com.

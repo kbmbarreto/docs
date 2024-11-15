@@ -1,4 +1,4 @@
-#Política de Privacidade
+# Política de Privacidade
 A [Lambda Team] respeita sua privacidade e está comprometido em protegê-la. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações dos usuários do aplicativo.
 
 ## 1. Informações Coletadas
